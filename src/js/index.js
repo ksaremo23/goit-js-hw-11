@@ -39,7 +39,7 @@
 import axios from 'axios';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import SimpleLightbox from 'simplelightbox';
-import 'simpleLightbox/dist/simple-lightbox.min.css';
+import 'simplelightbox/dist/simple-lightbox.min.css';
 import { BASE_URL, options } from './pixabay-api.js';
 
 // --------------------------
